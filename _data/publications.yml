@@ -2,42 +2,49 @@ main:
 
   - title: Spotting Code Mutation for Predictive Mutation Testing
     authors: <strong>Yifan Zhao*</strong>, Yizhou Chen, Zeyu Sun, Qingyuan Liang, Guoqing Wang, Dan Hao
-    conference_short: ASE'24
+    conference_short: ASE'24 [CCF-A]
     conference: International Conference on Automated Software Engineering <strong>(ASE)</strong>, 2024.
     pdf: https://dl.acm.org/doi/abs/10.1145/3691620.3695491
     code: https://github.com/yifan-CodeDir/SODA
 
   - title: Mutual Learning-Based Framework for Enhancing Robustness of Code Models via Adversarial Training
     authors: Yangsen Wang, Yizhou Chen, <strong>Yifan Zhao*</strong>, Zhihao Gong, Junjie Chen, Dan Hao
-    conference_short: ASE'24
+    conference_short: ASE'24 [CCF-A]
     conference: International Conference on Automated Software Engineering <strong>(ASE)</strong>, 2024.
     pdf: https://vmnk-run.github.io/pdfs/ASE24-MARVEL.pdf
     code: https://github.com/VMnK-Run/MARVEL
 
   - title: Commit Artifact Preserving Build Prediction
     authors: Guoqing Wang, Zeyu Sun, Yizhou Chen, <strong>Yifan Zhao*</strong>, Qingyuan Liang, Dan Hao
-    conference_short: ISSTA'24
+    conference_short: ISSTA'24 [CCF-A]
     conference: International Symposium on Software Testing and Analysis <strong>(ISSTA)</strong>, 2024.
     pdf: https://dl.acm.org/doi/abs/10.1145/3650212.3680356
     code: https://github.com/GuoqingWang1999/GitSense
 
   - title: Synthesis-Based Enhancement for GUI Test Case Migration
     authors: Yakun Zhang, Qihao Zhu, Jiwei Yan, Chen Liu, Wenjie Zhang, <strong>Yifan Zhao*</strong>, Dan Hao, Lu Zhang
-    conference_short: ISSTA'24
+    conference_short: ISSTA'24 [CCF-A]
     conference: International Symposium on Software Testing and Analysis <strong>(ISSTA)</strong>, 2024.
     pdf: https://dl.acm.org/doi/abs/10.1145/3650212.3680327
     code: https://github.com/YakZhang/MigratePro 
 
   - title: Revisiting Machine Learning based Test Case Prioritization for Continuous Integration
     authors: <strong>Yifan Zhao*</strong>, Dan Hao, Lu Zhang
-    conference_short: ICSME'23
+    conference_short: ICSME'23 [CCF-B]
     conference: International Conference on Software Maintenance and Evolution <strong>(ICSME)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2311.13413
     code: https://github.com/yifan-CodeDir/ml-citcp
 
+  - title: Static type recommendation for Python
+    authors: Ke Sun, <strong>Yifan Zhao*</strong>, Dan Hao, Lu Zhang
+    conference_short: ASE'22 [CCF-A]
+    conference: International Conference on Automated Software Engineering <strong>(ASE)</strong>, 2022.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3551349.3561150
+    code: https://github.com/ksun212/Stray
+
   - title: Test Case Prioritization Technique in Continuous Integration Based on Reinforcement Learning
     authors: <strong>Yifan Zhao*</strong>, Dan Hao
-    conference_short: JoS (Chinese)
+    conference_short: JoS (Chinese) [Chinese CCF-A]
     conference: Journal of Software (Chinese) <strong>(JoS)</strong>, 2022.
     pdf: https://jos.org.cn/jos/article/pdf/6506
     code: https://github.com/yifan-CodeDir/PRM
