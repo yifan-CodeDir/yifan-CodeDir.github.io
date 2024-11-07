@@ -13,7 +13,7 @@ I am a fourth year Ph.D. student at Peking University (scheduled to graduate in 
 - **AI for SE:** LLM for SE, reinforcement learning, contrastive learning
 
 ## Educations
-- 2021.09 - 2026.07 (now), **Peking University**, Ph.D. in Computer Science, supervised by [Dan Hao](https://scholar.google.com/citations?user=34W2ZrMAAAAJ&hl=zh-CN) and Prof. [Lu Zhang](https://scholar.google.com/citations?hl=zh-CN&user=JUnz2VcAAAAJ)
+- 2021.09 - 2026.07 (now), **Peking University**, Ph.D. in Computer Science, supervised by Prof. [Dan Hao](https://scholar.google.com/citations?user=34W2ZrMAAAAJ&hl=zh-CN) and Prof. [Lu Zhang](https://scholar.google.com/citations?hl=zh-CN&user=JUnz2VcAAAAJ)
 - 2024.07 - 2025.01 (now), **Monash University**, Visiting Scholar in HumaniSE lab, supervised by Prof. [Aldeida Aleti](https://users.monash.edu.au/~aldeidaa/)
 - 2017.09 - 2021.07, **Harbin Institute of Technology (Shenzhen)**, Bachelor in Computer Science
 
@@ -27,3 +27,8 @@ I am a fourth year Ph.D. student at Peking University (scheduled to graduate in 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## Hobbies
+- Reading books
+- Watching movies
+- Touching fish
