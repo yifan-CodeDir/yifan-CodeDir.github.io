@@ -3,7 +3,7 @@ main:
   - title: Spotting Code Mutation for Predictive Mutation Testing
     authors: <strong>Yifan Zhao*</strong>, Yizhou Chen, Zeyu Sun, Qingyuan Liang, Guoqing Wang, Dan Hao
     conference_short: ASE'24 [CCF-A]
-    conference: International Conference on Automated Software Engineering <strong>(ASE‘24)</strong>, 2024.
+    conference: Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering, 2024 <strong>(ASE’24)</strong>.
     pdf: https://dl.acm.org/doi/abs/10.1145/3691620.3695491
     code: https://github.com/yifan-CodeDir/SODA
     notes: CCF-A
@@ -11,7 +11,7 @@ main:
   - title: Mutual Learning-Based Framework for Enhancing Robustness of Code Models via Adversarial Training
     authors: Yangsen Wang, Yizhou Chen, <strong>Yifan Zhao*</strong>, Zhihao Gong, Junjie Chen, Dan Hao
     conference_short: ASE'24 [CCF-A]
-    conference: International Conference on Automated Software Engineering <strong>(ASE’24)</strong>, 2024.
+    conference: Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering, 2024 <strong>(ASE’24)</strong>.
     pdf: https://vmnk-run.github.io/pdfs/ASE24-MARVEL.pdf
     code: https://github.com/VMnK-Run/MARVEL
     notes: CCF-A
@@ -19,7 +19,7 @@ main:
   - title: Commit Artifact Preserving Build Prediction
     authors: Guoqing Wang, Zeyu Sun, Yizhou Chen, <strong>Yifan Zhao*</strong>, Qingyuan Liang, Dan Hao
     conference_short: ISSTA'24 [CCF-A]
-    conference: International Symposium on Software Testing and Analysis <strong>(ISSTA‘24)</strong>, 2024.
+    conference: Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, 2024 <strong>(ISSTA‘24)</strong>.
     pdf: https://dl.acm.org/doi/abs/10.1145/3650212.3680356
     code: https://github.com/GuoqingWang1999/GitSense
     notes: CCF-A
@@ -27,7 +27,7 @@ main:
   - title: Synthesis-Based Enhancement for GUI Test Case Migration
     authors: Yakun Zhang, Qihao Zhu, Jiwei Yan, Chen Liu, Wenjie Zhang, <strong>Yifan Zhao*</strong>, Dan Hao, Lu Zhang
     conference_short: ISSTA'24 [CCF-A]
-    conference: International Symposium on Software Testing and Analysis <strong>(ISSTA’24)</strong>, 2024.
+    conference: Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, 2024 <strong>(ISSTA’24)</strong>.
     pdf: https://dl.acm.org/doi/abs/10.1145/3650212.3680327
     code: https://github.com/YakZhang/MigratePro 
     notes: CCF-A
@@ -35,7 +35,7 @@ main:
   - title: Revisiting Machine Learning based Test Case Prioritization for Continuous Integration
     authors: <strong>Yifan Zhao*</strong>, Dan Hao, Lu Zhang
     conference_short: ICSME'23 [CCF-B]
-    conference: International Conference on Software Maintenance and Evolution <strong>(ICSME‘23)</strong>, 2023.
+    conference: Proceedings of the 39th International Conference on Software Maintenance and Evolution, 2023 <strong>(ICSME‘23)</strong>.
     pdf: https://arxiv.org/pdf/2311.13413
     code: https://github.com/yifan-CodeDir/ml-citcp
     notes: CCF-B
@@ -43,7 +43,7 @@ main:
   - title: Static type recommendation for Python
     authors: Ke Sun, <strong>Yifan Zhao*</strong>, Dan Hao, Lu Zhang
     conference_short: ASE'22 [CCF-A]
-    conference: International Conference on Automated Software Engineering <strong>(ASE’22)</strong>, 2022.
+    conference: Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering, 2022 <strong>(ASE’22)</strong>.
     pdf: https://dl.acm.org/doi/abs/10.1145/3551349.3561150
     code: https://github.com/ksun212/Stray
     notes: CCF-A
@@ -51,7 +51,7 @@ main:
   - title: Test Case Prioritization Technique in Continuous Integration Based on Reinforcement Learning
     authors: <strong>Yifan Zhao*</strong>, Dan Hao
     conference_short: JoS (Chinese) [Chinese CCF-A]
-    conference: Journal of Software (Chinese) <strong>(JoS)</strong>, 2022.
+    conference: Journal of Software (Chinese), 2022 <strong>(JoS)</strong>.
     pdf: https://jos.org.cn/jos/article/pdf/6506
     code: https://github.com/yifan-CodeDir/PRM
     notes: Chinese CCF-A
