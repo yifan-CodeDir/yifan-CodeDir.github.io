@@ -28,6 +28,17 @@ I am a fourth year Ph.D. student at Peking University (scheduled to graduate in 
 
 {% include_relative _includes/services.md %}
 
+## Honors and Awards
+- 2022.12: Merit Student (Top 13%), Peking University
+- 2022.12: Ubiquant Scholarship (Top 5%), Peking University
+- 2021.06: Outstanding Graduate (Top 10%), HIT (Shenzhen)
+- 2019:12: Excellent Student (Top 9%), HIT (Shenzhen)
+- 2019.11: First Prize in China Undergraduate Mathematical Contest in Modeling (provincial, Top 9%), HIT (Shenzhen)
+- 2019.10: First-class Scholarship (Top 5%), HIT (Shenzhen)
+- 2018.11: First Prize in preliminary Contest of Chinese Mathematics Competitions (Top 5%), HIT (Shenzhen)
+- 2018.10: China National Scholarship (Top 2%), HIT (Shenzhen)
+- 2018.10: First-class Scholarship (Top 5%), , HIT (Shenzhen)
+
 ## Hobbies
 - Reading books
 - Travelling
