@@ -6,7 +6,7 @@ main:
     conference: Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering, 2024 <strong>(ASE'24)</strong>.
     pdf: papers/ASE2024_SODA.pdf
     code: https://github.com/yifan-CodeDir/SODA
-    notes: CCF-A
+    notes: CCF-A, CORE Rank A*
 
   - title: Mutual Learning-Based Framework for Enhancing Robustness of Code Models via Adversarial Training
     authors: Yangsen Wang, Yizhou Chen, <strong>Yifan Zhao</strong>, Zhihao Gong, Junjie Chen, Dan Hao
@@ -14,7 +14,7 @@ main:
     conference: Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering, 2024 <strong>(ASE'24)</strong>.
     pdf: https://vmnk-run.github.io/pdfs/ASE24-MARVEL.pdf
     code: https://github.com/VMnK-Run/MARVEL
-    notes: CCF-A
+    notes: CCF-A, CORE Rank A*
 
   - title: Commit Artifact Preserving Build Prediction
     authors: Guoqing Wang, Zeyu Sun, Yizhou Chen, <strong>Yifan Zhao</strong>, Qingyuan Liang, Dan Hao
@@ -22,7 +22,7 @@ main:
     conference: Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, 2024 <strong>(ISSTA'24)</strong>.
     pdf: https://dl.acm.org/doi/abs/10.1145/3650212.3680356
     code: https://github.com/GuoqingWang1999/GitSense
-    notes: CCF-A
+    notes: CCF-A, CORE Rank A
 
   - title: Synthesis-Based Enhancement for GUI Test Case Migration
     authors: Yakun Zhang, Qihao Zhu, Jiwei Yan, Chen Liu, Wenjie Zhang, <strong>Yifan Zhao</strong>, Dan Hao, Lu Zhang
@@ -30,7 +30,7 @@ main:
     conference: Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, 2024 <strong>(ISSTA'24)</strong>.
     pdf: https://dl.acm.org/doi/abs/10.1145/3650212.3680327
     code: https://github.com/YakZhang/MigratePro 
-    notes: CCF-A
+    notes: CCF-A, CORE Rank A
 
   - title: Revisiting Machine Learning based Test Case Prioritization for Continuous Integration
     authors: <strong>Yifan Zhao</strong>, Dan Hao, Lu Zhang
@@ -38,7 +38,7 @@ main:
     conference: Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution, 2023 <strong>(ICSME'23)</strong>.
     pdf: https://arxiv.org/pdf/2311.13413
     code: https://github.com/yifan-CodeDir/ml-citcp
-    notes: CCF-B
+    notes: CCF-B, CORE Rank A
 
   - title: Static type recommendation for Python
     authors: Ke Sun, <strong>Yifan Zhao</strong>, Dan Hao, Lu Zhang
@@ -46,7 +46,7 @@ main:
     conference: Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering, 2022 <strong>(ASE’22)</strong>.
     pdf: https://dl.acm.org/doi/abs/10.1145/3551349.3561150
     code: https://github.com/ksun212/Stray
-    notes: CCF-A
+    notes: CCF-A, CORE Rank A*
 
   - title: Test Case Prioritization Technique in Continuous Integration Based on Reinforcement Learning
     authors: <strong>Yifan Zhao</strong>, Dan Hao
