@@ -4,7 +4,7 @@ main:
     authors: <strong>Yifan Zhao</strong>, Yizhou Chen, Zeyu Sun, Qingyuan Liang, Guoqing Wang, Dan Hao
     conference_short: ASE'24 [CCF-A]
     conference: Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering, 2024 <strong>(ASE'24)</strong>.
-    pdf: https://dl.acm.org/doi/abs/10.1145/3691620.3695491
+    pdf: yifan-codedir.github.io/papers/ASE2024_SODA.pdf
     code: https://github.com/yifan-CodeDir/SODA
     notes: CCF-A
 
