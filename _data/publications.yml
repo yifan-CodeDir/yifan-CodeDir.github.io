@@ -35,7 +35,7 @@ main:
   - title: Revisiting Machine Learning based Test Case Prioritization for Continuous Integration
     authors: <strong>Yifan Zhao</strong>, Dan Hao, Lu Zhang
     conference_short: ICSME'23 [CCF-B]
-    conference: Proceedings of the 39th International Conference on Software Maintenance and Evolution, 2023 <strong>(ICSME'23)</strong>.
+    conference: Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution, 2023 <strong>(ICSME'23)</strong>.
     pdf: https://arxiv.org/pdf/2311.13413
     code: https://github.com/yifan-CodeDir/ml-citcp
     notes: CCF-B
