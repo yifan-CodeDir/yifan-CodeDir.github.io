@@ -48,5 +48,5 @@ I am a fourth year Ph.D. student at Peking University (scheduled to graduate in 
 ## Friends
 - Chengwenjian Wang
 - Qingyuan Chen
-- Qingyuan Liang
+- [Qingyuan Liang](liangqingyuan.github.io)
 - Guoqing Wang
