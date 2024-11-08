@@ -30,5 +30,12 @@ I am a fourth year Ph.D. student at Peking University (scheduled to graduate in 
 
 ## Hobbies
 - Reading books
+- Travelling
 - Watching movies
 - Touching fish
+
+## Friends
+- Chengwenjian Wang
+- Qingyuan Chen
+- Qingyuan Liang
+- Guoqing Wang
