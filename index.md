@@ -18,11 +18,11 @@ I am a fourth year Ph.D. student at Peking University (scheduled to graduate in 
 - 2017.09 - 2021.07, **Harbin Institute of Technology (Shenzhen)**, Bachelor in Computer Science
 
 ## News
-
-- **[Aug. 2024]** Our paper about *Predictive Mutation Testing* is accepted to ASE 2024.
-- **[Aug. 2024]** Our paper about *Enhancing Robustness of Code Models* is accepted to ASE 2024.
-- **[Jul. 2024]** Our paper about *GUI Testing* is accepted to ISSTA 2024.
-- **[Jul. 2024]** Our paper about *CI Build Prediction* is accepted to ISSTA 2024.
+- **[Dec. 2024]** Our paper about *Fault Diagnosis* has been accepted by TOSEM.
+- **[Aug. 2024]** Our paper about *Predictive Mutation Testing* has been accepted by ASE 2024.
+- **[Aug. 2024]** Our paper about *Enhancing Robustness of Code Models* has been accepted by ASE 2024.
+- **[Jul. 2024]** Our paper about *GUI Testing* has been accepted by ISSTA 2024.
+- **[Jul. 2024]** Our paper about *CI Build Prediction* has been accepted by ISSTA 2024.
 
 {% include_relative _includes/publications.md %}
 
