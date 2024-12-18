@@ -3,7 +3,7 @@ main:
   - title: Automatically Learning a Precise Measurement for Fault Diagnosis Capability of Test Cases
     authors: <strong>Yifan Zhao</strong>, Zeyu Sun, Guoqing Wang, Qingyuan Liang, Yakun Zhang, Yiling Lou, Dan Hao, Lu Zhang
     conference_short: TOSEM 
-    conference: ACM Transactions on Software Engineering and Methodology, 2025 <strong>(TOSEM'25)</strong>.
+    conference: ACM Transactions on Software Engineering and Methodology, 2025 <strong>(TOSEM)</strong>.
     pdf: https://github.com/yifan-CodeDir/TOSEM-RLFDC
     code: https://github.com/yifan-CodeDir/TOSEM-RLFDC
     notes: CCF-A, CORE Rank A*
