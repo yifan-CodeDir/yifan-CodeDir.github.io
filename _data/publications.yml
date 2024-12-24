@@ -4,7 +4,7 @@ main:
     authors: <strong>Yifan Zhao</strong>, Zeyu Sun, Guoqing Wang, Qingyuan Liang, Yakun Zhang, Yiling Lou, Dan Hao, Lu Zhang
     conference_short: TOSEM 
     conference: ACM Transactions on Software Engineering and Methodology, 2025 <strong>(TOSEM)</strong>.
-    pdf: https://github.com/yifan-CodeDir/TOSEM-RLFDC
+    pdf: papers/TOSEM_RLFDC.pdf
     code: https://github.com/yifan-CodeDir/TOSEM-RLFDC
     notes: CCF-A, CORE Rank A*
 
