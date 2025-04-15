@@ -1,4 +1,11 @@
 main:
+  - title: Bipartite-Grammar Aware Pretraining for XML-SQL Code Updating
+    authors: Qingyuan Liang, Zeyu Sun, <strong>Yifan Zhao</strong>, Zhihao Gong, Guoqing Wang, Yizhou Chen, Lu Zhang, Guangtai Liang; Qianxiang Wang
+    conference_short: TOSEM 
+    conference: ACM Transactions on Software Engineering and Methodology, 2025 <strong>(TOSEM)</strong>.
+    pdf:  https://github.com/LIANGQINGYUAN/BGA-TwinXSQL
+    code: https://github.com/LIANGQINGYUAN/BGA-TwinXSQL
+    notes: CCF-A, CORE Rank A*
 
   - title: Automatically Learning a Precise Measurement for Fault Diagnosis Capability of Test Cases
     authors: <strong>Yifan Zhao</strong>, Zeyu Sun, Guoqing Wang, Qingyuan Liang, Yakun Zhang, Yiling Lou, Dan Hao, Lu Zhang
