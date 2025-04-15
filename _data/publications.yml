@@ -1,6 +1,6 @@
 main:
   - title: Bipartite-Grammar Aware Pretraining for XML-SQL Code Updating
-    authors: Qingyuan Liang, Zeyu Sun, <strong>Yifan Zhao</strong>, Zhihao Gong, Guoqing Wang, Yizhou Chen, Lu Zhang, Guangtai Liang; Qianxiang Wang
+    authors: Qingyuan Liang, Zeyu Sun, <strong>Yifan Zhao</strong>, Zhihao Gong, Guoqing Wang, Yizhou Chen, Lu Zhang, Guangtai Liang, Qianxiang Wang
     conference_short: TOSEM 
     conference: ACM Transactions on Software Engineering and Methodology, 2025 <strong>(TOSEM)</strong>.
     pdf:  https://github.com/LIANGQINGYUAN/BGA-TwinXSQL
