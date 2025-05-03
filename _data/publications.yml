@@ -3,7 +3,7 @@ main:
     authors: Qingyuan Liang, Zeyu Sun, <strong>Yifan Zhao</strong>, Zhihao Gong, Guoqing Wang, Yizhou Chen, Lu Zhang, Guangtai Liang, Qianxiang Wang
     conference_short: TOSEM 
     conference: ACM Transactions on Software Engineering and Methodology, 2025 <strong>(TOSEM)</strong>.
-    pdf:  https://github.com/LIANGQINGYUAN/BGA-TwinXSQL
+    pdf:  https://doi.org/10.1145/3731752
     code: https://github.com/LIANGQINGYUAN/BGA-TwinXSQL
     notes: CCF-A, CORE Rank A*
 
