@@ -1,4 +1,12 @@
 main:
+  - title: Directional Diffusion-Style Code Editing Pre-training
+    authors: Qingyuan Liang, Zeyu Sun, Qihao Zhu, Junhao Hu, <strong>Yifan Zhao</strong>, Yizhou Chen, Mingxuan Zhu, Guoqing Wang, Lu Zhang
+    conference_short: TSE
+    conference: IEEE Transactions on Software Engineering, 2025 <strong>(TSE)</strong>.
+    pdf:  https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32
+    code: https://github.com/LIANGQINGYUAN/DivoT5
+    notes: CCF-A, CORE Rank A*
+  
   - title: Bipartite-Grammar Aware Pretraining for XML-SQL Code Updating
     authors: Qingyuan Liang, Zeyu Sun, <strong>Yifan Zhao</strong>, Zhihao Gong, Guoqing Wang, Yizhou Chen, Lu Zhang, Guangtai Liang, Qianxiang Wang
     conference_short: TOSEM 
