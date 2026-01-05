@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a fifth (final) year Ph.D. student at Peking University (scheduled to graduate in 2026), supervised by Prof. [Dan Hao](https://scholar.google.com/citations?user=34W2ZrMAAAAJ&hl=zh-CN) and Prof. [Lu Zhang](https://scholar.google.com/citations?hl=zh-CN&user=JUnz2VcAAAAJ). I was a visiting scholar in Monash University, supervised by Prof. [Aldeida Aleti](https://users.monash.edu.au/~aldeidaa/), during July 2024 to January 2025.
+I am a fifth year Ph.D. student at Peking University (scheduled to graduate in 2026), supervised by Prof. [Dan Hao](https://scholar.google.com/citations?user=34W2ZrMAAAAJ&hl=zh-CN) and Prof. [Lu Zhang](https://scholar.google.com/citations?hl=zh-CN&user=JUnz2VcAAAAJ). I was a visiting scholar in Monash University, supervised by Prof. [Aldeida Aleti](https://users.monash.edu.au/~aldeidaa/), during July 2024 to January 2025.
 
 
 ## Research Interests
