@@ -45,8 +45,3 @@ I am a fifth year Ph.D. student at Peking University (scheduled to graduate in 2
 - Watching movies
 - Touching fish
 
-## Friends
-- Chengwenjian Wang
-- Qingyuan Chen
-- [Qingyuan Liang](https://liangqingyuan.github.io/)
-- Guoqing Wang
