@@ -30,7 +30,10 @@ I am now working as a senior researcher at WeChat Pay AI Lab, Tencent. I graduat
 {% include_relative _includes/services.md %}
 
 ## Honors and Awards
-- 2026.07: "Qingyun Talent Program (腾讯青云计划)", Top Talent Program of Tencent; "Soaring Star Talent Program (字节跳动筋斗云计划)", Top Talent Program of ByteDance; "TGT (京东顶尖青年技术天才计划)", Top Talent Program of Jingdong;
+- 2026.07: Corporate Talent Program
+    - "Qingyun Talent Program (腾讯青云计划)", Top Talent Program of Tencent
+    - "Soaring Star Talent Program (字节跳动筋斗云计划)", Top Talent Program of ByteDance
+    - "TGT (京东顶尖青年技术天才计划)", Top Talent Program of Jingdong
 - 2022.12: Merit Student (Top 13%), Peking University
 - 2022.12: Ubiquant Scholarship (Top 5%), Peking University
 - 2021.06: Outstanding Graduate (Top 10%), Harbin Institute of Technology (Shenzhen)
