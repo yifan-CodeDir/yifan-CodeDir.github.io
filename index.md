@@ -9,8 +9,9 @@ I am now working as a senior researcher at WeChat Pay AI Lab, Tencent. I graduat
 
 ## Research Interests
 
-- **AI for SE:** LLM for SE, reinforcement learning, contrastive learning
-- **Software Testing:** test prioritization, fault localization, test generation, mutation testing
+- **AI Agents:** Harness Engineering (Memory Management, Context Management, Tool Integration, and Session State Persistence). I am particularly interested in building AI agents that operate reliably, efficiently, and effectively.
+- **LLM Training:** Supervised Learning, Reinforcement Learning, Contrastive Learning
+- **Software Testing:** Test Prioritization, Fault Localization, Test Generation, Mutation Testing
 
 ## Educations
 - 2026.07 - now, **Tencent**, Senior Researcher in WeChat Pay AI Lab, working on AI-assisted Complicated Software Generation.
